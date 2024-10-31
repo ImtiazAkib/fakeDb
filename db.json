@@ -1,66 +1,60 @@
-[
-  {
-    "id": 1,
-    "name": "Advanced Immune Support",
-    "price": "€34.99",
-    "description": "Complete immune system protection",
-    "category": "Supplements",
-    "image": "/assets/images/products/advanced _immune_support.png"
-  },
-  {
-    "id": 2,
-    "name": "Omega-3 Complex",
-    "price": "€29.99",
-    "description": "Premium fish oil formula",
-    "category": "Vitamins",
-    "image": "/assets/images/products/omega_3.png"
-  },
-  {
-    "id": 3,
-    "name": "Joint Care Plus",
-    "price": "€39.99",
-    "description": "Advanced joint support",
-    "category": "Health",
-    "image": "/assets/images/products/joint_care_plus.png"
-  },
-  {
-    "id": 4,
-    "name": "Sleep Well Formula",
-    "price": "€24.99",
-    "description": "Natural sleep support",
-    "category": "Wellness",
-    "image": "/assets/images/products/sleep_well_formula.png"
-  },
-  {
-    "id": 5,
-    "name": "Vitamin D3 + K2",
-    "price": "€19.99",
-    "description": "Optimal bone health",
-    "category": "Vitamins",
-    "image": "/assets/images/products/vitamin_d3_k2.png"
-  },
-  {
-    "id": 6,
-    "name": "Probiotic Complete",
-    "price": "€44.99",
-    "description": "Digestive health support",
-    "category": "Health",
-    "image": "/assets/images/products/probiotic_complete.png"
-  },
-  {
-    "id": 7,
-    "name": "Joint Care Plus",
-    "price": "€39.99",
-    "description": "Advanced joint support",
-    "category": "Health",
-    "image": "/assets/images/products/joint_care_plus.png"
-  },
-  {
-    "id": 8,
-    "name": "Omega-3 Complex",
-    "price": "€29.99",
-    "description": "Premium fish oil formula",
-    "category": "Vitamins",
-    "image": "/assets/images/products/omega_3.png"
-  }
-]
+{
+  "drugs": [
+    {
+      "id": 1,
+      "name": "Advanced Immune Support",
+      "price": "€34.99",
+      "description": "Complete immune system protection",
+      "category": "Supplements"
+    },
+    {
+      "id": 2,
+      "name": "Omega-3 Complex",
+      "price": "€29.99",
+      "description": "Premium fish oil formula",
+      "category": "Vitamins"
+    },
+    {
+      "id": 3,
+      "name": "Joint Care Plus",
+      "price": "€39.99",
+      "description": "Advanced joint support",
+      "category": "Health"
+    },
+    {
+      "id": 4,
+      "name": "Sleep Well Formula",
+      "price": "€24.99",
+      "description": "Natural sleep support",
+      "category": "Wellness"
+    },
+    {
+      "id": 5,
+      "name": "Vitamin D3 + K2",
+      "price": "€19.99",
+      "description": "Optimal bone health",
+      "category": "Vitamins"
+    },
+    {
+      "id": 6,
+      "name": "Probiotic Complete",
+      "price": "€44.99",
+      "description": "Digestive health support",
+      "category": "Health"
+    },
+    {
+      "id": 7,
+      "name": "Joint Care Plus",
+      "price": "€39.99",
+      "description": "Advanced joint support",
+      "category": "Health"
+    },
+    {
+      "id": 8,
+      "name": "Omega-3 Complex",
+      "price": "€29.99",
+      "description": "Premium fish oil formula",
+      "category": "Vitamins"
+    }
+  ]
+}
