@@ -17,7 +17,7 @@
     {
       "id": 3,
       "name": "Joint Care Plus",
-      "price": "€39.99",
+      "price": 39.99,
       "description": "Advanced joint support",
       "category": "Health"
     },
